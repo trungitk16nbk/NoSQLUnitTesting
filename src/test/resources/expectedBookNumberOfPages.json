@@ -1,0 +1,7 @@
+{
+	"Book":
+			[
+				{"title":"The Hobbit","numberOfPages":1234},
+				{"title":"Harry Potter and the Philosopher's Stone","numberOfPages":293}
+			]
+}
